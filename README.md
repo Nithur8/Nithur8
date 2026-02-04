@@ -1,4 +1,4 @@
-# PUVANESARASA NITHURJITHAN
+ # PUVANESARASA NITHURJITHAN
 
 **Embedded Systems & IoT Engineer (Undergraduate)**  
 University of Sri Jayewardenepura | [Portfolio](https://your-portfolio.example)  
@@ -109,7 +109,6 @@ Tech & highlights: high‑power motor control, chassis & weapon integration
 These cards reflect your public activity and top languages across your repositories:
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nithur8&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nithur8&layout=compact&theme=radical)  
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithur8&bg_color=121212&color=0aa1ff&line=9e4c98&point=7fffd4&area=true&hide_border=true)
 
 ---
