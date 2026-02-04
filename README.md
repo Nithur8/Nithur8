@@ -107,7 +107,6 @@ Tech & highlights: high‑power motor control, chassis & weapon integration
 ## GitHub Stats & Languages
 
 These cards reflect your public activity and top languages across your repositories:
-![GitHub Streak](https://streak-stats.demolab.com?user=Nithur8&theme=tokyonight)
 
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nithur8&show_icons=true&theme=radical)  
