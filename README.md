@@ -1,8 +1,8 @@
  # PUVANESARASA NITHURJITHAN
 
 **Embedded Systems & IoT Engineer (Undergraduate)**  
-University of Sri Jayewardenepura | [Portfolio](https://your-portfolio.example)  
-[LinkedIn](https://www.linkedin.com/in/your-linkedin/) · nithujithan5028@gmail.com · +94 741117949
+University of Sri Jayewardenepura | [Portfolio](https://nithurjithan-works.lovable.app)  
+[LinkedIn](https://www.linkedin.com/in/nithurjithan-puvanesarasa-443869241/) · nithujithan5028@gmail.com · +94 741117949
 
 ---
 
