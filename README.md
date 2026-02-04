@@ -1,12 +1,121 @@
-<h1 align="center">Hi 👋, I'm Puvanesarasa Nithurjithan</h1>
-<h3 align="center">A passionate Electrical Electronic Engineer</h3>
+# PUVANESARASA NITHURJITHAN
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nithur8&label=Profile%20views&color=0e75b6&style=flat" alt="nithur8" /> </p>
+**Embedded Systems & IoT Engineer (Undergraduate)**  
+University of Sri Jayewardenepura | [Portfolio](https://your-portfolio.example)  
+[LinkedIn](https://www.linkedin.com/in/your-linkedin/) · nithujithan5028@gmail.com · +94 741117949
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nithurjithan-puvanesarasa-443869241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithurjithan puvanesarasa" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+## About
+
+Embedded Systems and IoT engineering undergraduate with strong hands-on experience in microcontroller-based system design, robotics, and sensor-driven applications. Experienced in STM32, ESP32, and Raspberry Pi, with practical exposure to ADC measurement, communication protocols, real-time control, and edge vision systems. Interested in embedded firmware development, hardware–software integration, and deployable engineering solutions.
+
+---
+
+## Projects
+
+### Robofest 2025 — Micromouse 
+Autonomous micromouse platform developed for Robofest — focused on fast maze exploration, reliable sensor-driven wall detection, and robust motion control.
+
+Role & contributions:
+- Embedded control and motion logic (PID tuning, encoder handling)  
+- Sensor integration and calibration (IR/sonar/optical sensor stacks)  
+- Performance testing and competition tuning
+
+Tech & highlights: microcontroller‑based control, encoder odometry, real‑time mapping
+
+---
+
+### COREX / Xbotix 2025 — Team Robotics Platform  
+Modular robotics platform for competitive events — firmware, motor driver interfaces, and sensor integration for high‑performance robots.
+
+Role & contributions:
+- Firmware architecture for motor & sensor subsystems  
+- Power management and safety interlocks  
+- System-level testing and iteration
+
+Tech & highlights: motor drivers, real‑time firmware, modular hardware design
+
+---
+
+### CitySense — Colombo (Smart City Sensing)  
+Distributed environmental sensing and telemetry for urban monitoring with gateway ingestion and dashboard visualization.
+
+Role & contributions:
+- Node firmware patterns and sensor conditioning  
+- Gateway integration and MQTT/web ingestion strategies  
+- Dashboard & visualization guidance for live telemetry
+
+Tech & highlights: environmental sensors, LoRa/Wi‑Fi gateways, MQTT ingestion
+
+---
+
+### Object Detection on Raspberry Pi (NoIR Camera) 
+End‑to‑end object detection pipeline on Raspberry Pi 4 using the NoIR Camera V2, optimized for low‑light and low‑latency inference.
+
+Role & contributions:
+- Model selection and optimization for Pi (latency & memory)  
+- Inference integration (OpenCV + TFLite)  
+- Camera configuration and low‑light preprocessing
+
+Tech & highlights: Raspberry Pi 4, NoIR camera V2, OpenCV, TensorFlow Lite
+
+---
+
+### Embedded System for Voltage & Current Measurement
+Microcontroller measurement system with ADC interfacing, calibration routines, and data logging for precise electrical measurements.
+
+Role & contributions:
+- ADC interfacing, sensor calibration, and filtering  
+- Data logging and serial / cloud integration options  
+- Measurement validation and accuracy testing
+
+Tech & highlights: MCU ADC, signal conditioning, calibration routines
+
+---
+
+### BattleBot — Kelaniya (Collaboration)  
+Competition battlebot featuring high‑torque drive systems, weapon actuation, and firmware for aggressive maneuvering and safety.
+
+Role & contributions:
+- Control firmware collaboration and drive tuning  
+- Safety and power management design input  
+- Integration testing and competition prep
+
+Tech & highlights: high‑power motor control, chassis & weapon integration
+
+---
+
+## Skills & Technologies
+
+- Languages: C, Embedded C, C++, Python  
+- Embedded Platforms: STM32, ESP32, Raspberry Pi, Arduino  
+- Protocols: UART, I²C, SPI, LoRa, MQTT, WiFi, Bluetooth, HTTP  
+- Tools: Git, PlatformIO, STM32CubeMX, FreeRTOS, JTAG/SWD, logic analyzers  
+- Edge AI: TensorFlow Lite, TinyML, OpenCV, model quantization & optimization
+
+---
+
+## Activities & Contributions
+
+- Participated in robotics competitions (Robofest) — navigation and control systems  
+- Contributed to open-source firmware and community projects  
+- Built end‑to‑end IoT deployments: hardware prototyping → firmware → cloud → dashboard  
+- Mentored peers and ran workshops on microcontrollers and embedded ML
+
+---
+## GitHub Stats & Languages
+
+These cards reflect your public activity and top languages across your repositories:
+
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nithur8&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nithur8&layout=compact&theme=radical)  
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nithur8&bg_color=121212&color=0aa1ff&line=9e4c98&point=7fffd4&area=true&hide_border=true)
+
+---
+
+> "Innovation starts where hardware meets clean software and practical deployment."
+
+---
+
+Seeking an Embedded Systems Internship where I can strengthen my skills in firmware development, hardware debugging, and real-time embedded system design while contributing to practical engineering projects.
